@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/brody 3.wav-15c89f817802cdf2fc011993b4ef7565.sample"
+
+[deps]
+
+source_file="res://brody 3.wav"
+dest_files=[ "res://.import/brody 3.wav-15c89f817802cdf2fc011993b4ef7565.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
